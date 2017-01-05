@@ -14,7 +14,7 @@ search: true
 
 Bienvenido a la API de Controlpack. Esta API se usa para tener acceso a las ordenes y permite interactuar con nuestro sistema para realizar ordenes o checar el estado de las que ya están en proceso.
 
-Tenemos ejemplos de uso en Shell, Ruby, Python y JS Con ejemplos de código para integrarlo rápidamente con tu sistema.  
+Tenemos ejemplos de uso en Shell y JS con ejemplos de código para integrarlo rápidamente con tu sistema.  
 
 Para acceder a la API se usa la siguiente URL:
 [https://api.packandpack.com/v1/](https://api.packandpack.com/v1/)
