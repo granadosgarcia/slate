@@ -112,6 +112,7 @@ curl -H "Content-Type: application/json" -X POST -d '{
     "pickup": {
     "contactName": "Pruebas",
     "contactPhone": "68937101",
+    "description": "Una pepsi, dos sabritas",
     "address": "Sin calle",
     "coordinates": {
         "lat": 19.0355901,
@@ -140,6 +141,7 @@ $.ajax({
     "pickup": {
     "contactName": "Pruebas",
     "contactPhone": "68937101",
+    "description": "Una pepsi, dos sabritas",
     "address": "Sin calle",
     "coordinates": {
         "lat": 19.0355901,
@@ -171,6 +173,7 @@ $.ajax({
     "requestedDate": "2017-01-05T08:29:26.366Z",
     "possible": true,
     "status": 10,
+    "description": "Una pepsi, dos sabritas",
     "_id": "586e03e624a74500049d0a8f",
     "places": {
       "delivery": {
